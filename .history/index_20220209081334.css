@@ -5,14 +5,14 @@ body {
 
 .navbar {
     background-color: black;
-    opacity: 1;
-    padding: 2vh;
+    opacity: 0.7;
+    padding: 7px;
 }
 
 .bg {
     position: absolute;
     z-index: -1;
-    background-image: url("./assets/background.jpg");
+    background-image: var(--bgImageUrl);
     background-position: center;
     background-size: cover;
     width: 100vw;
