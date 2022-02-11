@@ -7,6 +7,8 @@ body {
     background-color: black;
     opacity: 1;
     padding: 2vh;
+    display: flex;
+    justify-content: space-between;
 }
 
 .bg {
@@ -25,11 +27,15 @@ ul {
     margin: 0;
     padding: 0;
     display: flex;
-    gap: 2em;
 }
 
 ul > li > a {
     text-decoration: none;
     color: darkgreen;
     font-family: Arial, Helvetica, sans-serif;
+    margin-right: 50px;
+}
+
+.icon {
+    height: 25px;
 }
