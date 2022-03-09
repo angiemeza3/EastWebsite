@@ -1,7 +1,12 @@
-
-h1{
-    color: rgb(0, 47, 255);
+.background {
+    background-image: url(https://wallpaperaccess.com/full/276412.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-.image {
-
+h1 {
+    color:rgb(238, 223, 22);
+}
+h2 { 
+color: rgb(120, 233, 233);
+font-family:Georgia, 'Times New Roman', Times, serif;
 }
