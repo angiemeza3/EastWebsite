@@ -1,0 +1,8 @@
+.about {
+  background-color: rgba(26, 71, 43, 0.5);
+  width: fit-content;
+  border-radius: 15px;
+  padding: 30px;
+  /* backdrop-filter: blur(3px); */
+  color: white;
+}
