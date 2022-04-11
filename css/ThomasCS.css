@@ -1,0 +1,11 @@
+.background {
+    background-image: url(https://th.bing.com/th/id/R.4c8e2bd7e2a68c02468af7c3679c9d20?rik=5A2mfoPFhXi8Fg&pid=ImgRaw&r=0);
+    background-size: cover;
+}
+h1 {
+    color: white;
+}
+p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
